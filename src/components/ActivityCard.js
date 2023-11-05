@@ -24,7 +24,7 @@ export default function ActivityCard({
   };
 
   return (
-    <div className="card card-normal w-96 bg-base-300 shadow-xl">
+    <div className="card card-normal w-11/12 my-5 h-auto md:my-5 md:w-2/5 bg-base-300 shadow-xl">
       <figure>
         <img
           src={imgUrl}
