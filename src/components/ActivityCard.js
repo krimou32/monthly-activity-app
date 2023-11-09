@@ -65,7 +65,6 @@ export default function ActivityCard({
           >
             Done <BiCheckCircle />
           </button>
-          {/* New "Done" Button */}
         </div>
       </div>
     </div>
